@@ -1,0 +1,6 @@
+*.zip
+*.pdf
+*.txt
+*.mat
+
+lib/
