@@ -1,6 +1,9 @@
-*.zip
-*.pdf
-*.txt
-*.mat
+/learn/machine-learning/*.zip
+/learn/machine-learning/*.txt
+/learn/machine-learning/*.mat
+/learn/machine-learning/docs/
+/learn/machine-learning/**/lib/
 
-lib/
+/learn/ml-foundations/*.csv
+/learn/ml-foundations/docs/
+/learn/ml-foundations/**/.ipynb_checkpoints/
