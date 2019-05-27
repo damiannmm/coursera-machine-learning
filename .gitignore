@@ -1,11 +1,12 @@
-/learn/machine-learning/*.zip
-/learn/machine-learning/*.txt
-/learn/machine-learning/*.mat
-/learn/machine-learning/docs/
-/learn/machine-learning/**/lib/
+learn/**/docs/
 
-/learn/ml-foundations/*.csv
-/learn/ml-foundations/docs/
-/learn/ml-foundations/**/.ipynb_checkpoints/
-/learn/ml-foundations/week2/home_data.gl/
-/learn/ml-foundations/week3/amazon_baby.gl/
+learn/machine-learning/*.zip
+learn/machine-learning/*.txt
+learn/machine-learning/*.mat
+learn/machine-learning/**/lib/
+
+learn/ml-foundations/*.csv
+learn/ml-foundations/**/.ipynb_checkpoints/
+learn/ml-foundations/week2/home_data.gl/
+learn/ml-foundations/week3/amazon_baby.gl/
+learn/ml-foundations/week4/people_wiki.gl/
