@@ -7,6 +7,7 @@ learn/machine-learning/**/lib/
 
 learn/ml-foundations/*.csv
 learn/ml-foundations/**/.ipynb_checkpoints/
+learn/ml-foundations/week1/people-example.csv
 learn/ml-foundations/week2/home_data.gl/
 learn/ml-foundations/week3/amazon_baby.gl/
 learn/ml-foundations/week4/people_wiki.gl/
