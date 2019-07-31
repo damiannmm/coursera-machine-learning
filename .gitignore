@@ -1,16 +1,14 @@
+venv/
+
 learn/**/docs/
 
-learn/machine-learning/*.zip
 learn/machine-learning/*.txt
 learn/machine-learning/*.mat
 learn/machine-learning/**/lib/
 
-learn/ml-foundations/*.csv
-learn/ml-foundations/**/.ipynb_checkpoints/
-learn/ml-foundations/week1/people-example.csv
-learn/ml-foundations/week2/home_data.gl/
-learn/ml-foundations/week3/amazon_baby.gl/
-learn/ml-foundations/week4/people_wiki.gl/
-learn/ml-foundations/week5/song_data.gl/
-learn/ml-foundations/week6/image_test_data/
-learn/ml-foundations/week6/image_train_data/
+.DS_Store
+*.zip
+*.pyc
+*.csv
+*.json
+*.pdf

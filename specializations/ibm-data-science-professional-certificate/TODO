@@ -1,0 +1,61 @@
+labs:
+  DS0103EN:
+   [ ] DS0103EN-1-1-1-From-Problem-to-Approach-v2.0.ipynb
+   [ ] DS0103EN-2-2-1-From-Requirements-to-Collection-v2.0.ipynb
+   [ ] DS0103EN-3-3-1-From-Understanding-to-Preparation-v2.0.ipynb
+   [ ] DS0103EN-4-4-1-From-Modeling-to-Evaluation-v2.0.ipynb
+  PY0101EN:
+   [ ] PY0101EN-1-1-Types.ipynb
+   [ ] PY0101EN-1-2-Strings.ipynb
+   [ ] PY0101EN-2-1-Tuples.ipynb
+   [ ] PY0101EN-2-2-Lists.ipynb
+   [ ] PY0101EN-2-3-Dictionaries.ipynb
+   [ ] PY0101EN-2-4-Sets.ipynb
+   [ ] PY0101EN-3-1-Conditions.ipynb
+   [ ] PY0101EN-3-2-Loops.ipynb
+   [ ] PY0101EN-3-3-Functions.ipynb
+   [ ] PY0101EN-3-4-Classes.ipynb
+   [ ] PY0101EN-4-1-ReadFile.ipynb
+   [ ] PY0101EN-4-2-WriteFile.ipynb
+   [ ] PY0101EN-5-1-Numpy1D.ipynb
+   [ ] PY0101EN-5-2-Numpy2D.ipynb
+  DB0201EN:
+   [ ] DB0201EN-Week3-1-1-Connecting-v4-py.ipynb
+   [ ] DB0201EN-Week3-1-2-Querying-v4-py.ipynb
+   [ ] DB0201EN-Week3-1-3-SQLmagic-v3-py.ipynb
+   [ ] DB0201EN-Week3-1-4-Analyzing-v5-py.ipynb
+   [ ] DB0201EN-Week4-1-1-RealDataPractice-v4-py.ipynb
+   [ ] DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb
+  DA0101EN:
+   [ ] data-wrangling.ipynb
+   [ ] exploratory-data-analysis.ipynb
+   [ ] model-development.ipynb
+   [ ] model-evaluation-and-refinement.ipynb
+   [ ] review-introduction.ipynb
+  DV0101EN:
+   [ ] DV0101EN-1-1-1-Introduction-to-Matplotlib-and-Line-Plots-py-v2.0.ipynb
+   [ ] DV0101EN-2-2-1-Area-Plots-Histograms-and-Bar-Charts-py-v2.0.ipynb
+   [ ] DV0101EN-2-3-1-Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots-py-v2.0.ipynb
+   [ ] DV0101EN-3-4-1-Waffle-Charts-Word-Clouds-and-Regression-Plots-py-v2.0.ipynb
+   [ ] DV0101EN-3-5-1-Generating-Maps-in-Python-py-v2.0.ipynb
+   [ ] final_assignment.ipynb
+  coursera:
+    ML0101EN:
+       [ ] ML0101EN-Clas-Decision-Trees-drug-py-v1.ipynb
+       [ ] ML0101EN-Clas-K-Nearest-neighbors-CustCat-py-v1.ipynb
+       [ ] ML0101EN-Clas-Logistic-Reg-churn-py-v1.ipynb
+       [ ] ML0101EN-Clas-SVM-cancer-py-v1.ipynb
+       [ ] ML0101EN-Clus-DBSCN-weather-py-v1.ipynb
+       [ ] ML0101EN-Clus-Hierarchical-Cars-py-v1.ipynb
+       [ ] ML0101EN-Clus-K-Means-Customer-Seg-py-v1.ipynb
+       [ ] ML0101EN-Proj-Loan-py-v1.ipynb
+       [ ] ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb
+       [ ] ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb
+       [ ] ML0101EN-Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb
+       [ ] ML0101EN-Reg-NoneLinearRegression-py-v1.ipynb
+       [ ] ML0101EN-Reg-Polynomial-Regression-Co2-py-v1.ipynb
+       [ ] ML0101EN-Reg-Simple-Linear-Regression-Co2-py-v1.ipynb
+  DP0701EN:
+   [ ] DP0701EN-2-2-1-Foursquare-API-py-v1.0.ipynb
+   [ ] DP0701EN-3-3-1-Clustering-k-means-py-v1.0.ipynb
+   [ ] DP0701EN-3-3-2-Neighborhoods-New-York-py-v1.0.ipynb
