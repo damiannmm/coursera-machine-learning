@@ -1,4 +1,5 @@
 venv/
+.ipynb_checkpoints/
 
 learn/**/docs/
 
@@ -11,4 +12,5 @@ learn/machine-learning/**/lib/
 *.pyc
 *.csv
 *.json
+*.dot
 *.pdf
