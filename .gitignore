@@ -10,6 +10,7 @@ learn/machine-learning/**/lib/
 .DS_Store
 *.zip
 *.pyc
+*.pkl
 *.csv
 *.json
 *.dot
