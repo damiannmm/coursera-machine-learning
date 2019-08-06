@@ -1,37 +1,37 @@
 labs:
   DS0103EN:
-   [ ] DS0103EN-1-1-1-From-Problem-to-Approach-v2.0.ipynb
-   [ ] DS0103EN-2-2-1-From-Requirements-to-Collection-v2.0.ipynb
-   [ ] DS0103EN-3-3-1-From-Understanding-to-Preparation-v2.0.ipynb
-   [ ] DS0103EN-4-4-1-From-Modeling-to-Evaluation-v2.0.ipynb
+   [x] DS0103EN-1-1-1-From-Problem-to-Approach-v2.0.ipynb @done (19-08-03 10:36)
+   [x] DS0103EN-2-2-1-From-Requirements-to-Collection-v2.0.ipynb @done (19-08-03 10:36)
+   [x] DS0103EN-3-3-1-From-Understanding-to-Preparation-v2.0.ipynb @done (19-08-03 10:36)
+   [x] DS0103EN-4-4-1-From-Modeling-to-Evaluation-v2.0.ipynb @done (19-08-03 10:36)
   PY0101EN:
-   [ ] PY0101EN-1-1-Types.ipynb
-   [ ] PY0101EN-1-2-Strings.ipynb
-   [ ] PY0101EN-2-1-Tuples.ipynb
-   [ ] PY0101EN-2-2-Lists.ipynb
-   [ ] PY0101EN-2-3-Dictionaries.ipynb
-   [ ] PY0101EN-2-4-Sets.ipynb
-   [ ] PY0101EN-3-1-Conditions.ipynb
-   [ ] PY0101EN-3-2-Loops.ipynb
-   [ ] PY0101EN-3-3-Functions.ipynb
-   [ ] PY0101EN-3-4-Classes.ipynb
-   [ ] PY0101EN-4-1-ReadFile.ipynb
-   [ ] PY0101EN-4-2-WriteFile.ipynb
-   [ ] PY0101EN-5-1-Numpy1D.ipynb
-   [ ] PY0101EN-5-2-Numpy2D.ipynb
+   [x] PY0101EN-1-1-Types.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-1-2-Strings.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-2-1-Tuples.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-2-2-Lists.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-2-3-Dictionaries.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-2-4-Sets.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-3-1-Conditions.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-3-2-Loops.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-3-3-Functions.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-3-4-Classes.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-4-1-ReadFile.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-4-2-WriteFile.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-5-1-Numpy1D.ipynb @done (19-08-03 11:18)
+   [x] PY0101EN-5-2-Numpy2D.ipynb @done (19-08-03 11:18)
   DB0201EN:
-   [ ] DB0201EN-Week3-1-1-Connecting-v4-py.ipynb
-   [ ] DB0201EN-Week3-1-2-Querying-v4-py.ipynb
-   [ ] DB0201EN-Week3-1-3-SQLmagic-v3-py.ipynb
-   [ ] DB0201EN-Week3-1-4-Analyzing-v5-py.ipynb
-   [ ] DB0201EN-Week4-1-1-RealDataPractice-v4-py.ipynb
-   [ ] DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb
+   [x] DB0201EN-Week3-1-1-Connecting-v4-py.ipynb @done (19-08-03 11:42)
+   [x] DB0201EN-Week3-1-2-Querying-v4-py.ipynb @done (19-08-03 11:42)
+   [x] DB0201EN-Week3-1-3-SQLmagic-v3-py.ipynb @done (19-08-03 11:42)
+   [x] DB0201EN-Week3-1-4-Analyzing-v5-py.ipynb @done (19-08-03 11:42)
+   [x] DB0201EN-Week4-1-1-RealDataPractice-v4-py.ipynb @done (19-08-04 06:53)
+   [x] DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb @done (19-08-04 06:53)
   DA0101EN:
-   [ ] data-wrangling.ipynb
-   [ ] exploratory-data-analysis.ipynb
-   [ ] model-development.ipynb
-   [ ] model-evaluation-and-refinement.ipynb
-   [ ] review-introduction.ipynb
+   [x] review-introduction.ipynb @done (19-08-04 10:12)
+   [x] data-wrangling.ipynb @done (19-08-04 10:12)
+   [x] exploratory-data-analysis.ipynb @done (19-08-04 10:12)
+   [x] model-development.ipynb @done (19-08-04 10:12)
+   [x] model-evaluation-and-refinement.ipynb @done (19-08-04 10:12)
   DV0101EN:
    [ ] DV0101EN-1-1-1-Introduction-to-Matplotlib-and-Line-Plots-py-v2.0.ipynb
    [ ] DV0101EN-2-2-1-Area-Plots-Histograms-and-Bar-Charts-py-v2.0.ipynb

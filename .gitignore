@@ -14,3 +14,5 @@ learn/machine-learning/**/lib/
 *.json
 *.dot
 *.pdf
+*.mp4
+*.vtt
